@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<username>.github.io/<repo-name>",
+  "homepage": "https://DorShabat.github.io/react_tailwind_router_exmple",
 
   "eslintConfig": {
     "extends": [
